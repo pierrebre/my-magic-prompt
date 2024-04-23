@@ -1,12 +1,6 @@
 # My Magic Prompt
 
-Ce script Shell crée un prompt interactif avec diverses fonctionnalités pour la gestion de fichiers, les interactions avec l'utilisateur et d'autres tâches de base en Shell.
-
-## Installation
-
-1. Clonez ce dépôt Git sur votre système.
-2. Assurez-vous d'avoir les permissions d'exécution pour `main.sh`.
-3. Exécutez `main.sh` pour démarrer le prompt interactif.
+Pierre Barbé
 
 ## Commandes disponibles
 
